@@ -17,12 +17,13 @@ __author__ = [
 __version__ = '$Revision: 0.1 $'
 
 
-import os
-
+import os, sys
 
 if __name__ == '__main__':
 
     print 'hello github.'
+
+    sys.exit(0)
 
 
 
