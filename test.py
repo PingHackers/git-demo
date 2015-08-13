@@ -21,7 +21,7 @@ import os, sys
 
 if __name__ == '__main__':
 
-    print 'hello github.'
+    print 'hello wanglv.'
 
     sys.exit(0)
 
