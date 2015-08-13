@@ -19,6 +19,15 @@ __version__ = '$Revision: 0.1 $'
 
 import os, sys
 
+def html_unescape(html):
+    """html字符转移。 eg:&lt;变 <
+
+    :param html:
+    :return: :rtype:
+    """
+    return HTML_PARSER.unescape(html)
+
+
 if __name__ == '__main__':
 
     print 'hello wanglv.'
