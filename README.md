@@ -1,4 +1,4 @@
 git-demo
 ========
 
-Demonstration of got workflow usage.
+Demonstration of git workflow usage.
