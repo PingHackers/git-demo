@@ -5,4 +5,6 @@
 	sayHi();
 
 	sayHi();
+
+	sayHi();
 })();
