@@ -7,4 +7,6 @@
 	sayHi();
 
 	sayHi();
+
+	var test1;
 })();
