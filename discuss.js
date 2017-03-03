@@ -3,4 +3,6 @@
 		console.info("Hi, git!");
 	}
 	sayHi();
+
+	sayHi();
 })();
