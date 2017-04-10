@@ -1,6 +1,12 @@
 (function () {
 	function sayHi() {
-		console.log("Hi, git!");
+		console.info("Hi, git!");
 	}
 	sayHi();
+
+	sayHi();
+
+	sayHi();
+
+	var test1;
 })();
