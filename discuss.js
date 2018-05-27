@@ -3,4 +3,5 @@
 		console.log("Hi, git!");
 	}
 	sayHi();
+	sayHi();
 })();
